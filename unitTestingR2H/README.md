@@ -1,4 +1,7 @@
 # unitTesting
+
+![alt text](https://wikileaks.org/ciav7p1/cms/files/workedin.jpg)
+
 https://www.youtube.com/watch?v=vqAaMVoKz1c
 # What is Unit Testing? 
 # Unit testing is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation. Unit testing can be done manually but is often automated.
@@ -8,6 +11,7 @@ What are some other types of testing
 
 ![alt text](http://softwaretestingfundamentals.com/wp-content/uploads/2011/01/software_testing_levels1.jpg)
 
+ 
 Definition by ISTQB
 
 Unit Testing: A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
