@@ -5,7 +5,7 @@
 
 What are some other types of testing
 
-![alt text](http://softwaretestingfundamentals.com/wp-content/uploads/2010/12/integrationtesting.jpg)
+![alt text](http://softwaretestingfundamentals.com/wp-content/uploads/2011/01/software_testing_levels1.jpg)
 
 Definition by ISTQB
 
