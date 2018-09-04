@@ -4,7 +4,9 @@
 ![alt text](https://4.bp.blogspot.com/-SmAMqZoXjEw/WqBP7cuHMYI/AAAAAAAAAiU/_KM6f3LUWeQGsDVvMlvEytdQGYPNhYUEQCLcBGAs/s1600/unit%2Btesting.jpg)
 
 What are some other types of testing
+
 ![alt text](http://softwaretestingfundamentals.com/wp-content/uploads/2010/12/integrationtesting.jpg)
+
 Definition by ISTQB
 
 Unit Testing: A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
